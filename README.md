@@ -1,6 +1,6 @@
 # BasicCppApp
 
-Description - ODO
+Description - TODO
 
 # Compile and install
 
