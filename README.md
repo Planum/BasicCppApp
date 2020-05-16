@@ -4,12 +4,25 @@ Description - TODO
 
 # Compile and install
 
-1. create build folder 
+1. Create build folder 
 
-2. cd to build folder
+2. Execute cmd: cd to build folder
 
-3. execute cmd cmake .
+3. Execute cmd: cmake .
 
-4. execute cmd make
+4. Execute cmd: make
+
+# Clean build example
+
+1. Insite build  path go to cd..
+
+2. Execute cmd: rm -r build/*
+
+# Needed Links:
+
+
+1. http://derekmolloy.ie/hello-world-introductions-to-cmake/
+
+
 
  
