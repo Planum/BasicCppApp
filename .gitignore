@@ -1,3 +1,4 @@
 
 #Ignore build path
 build/
+config/secure.txt
