@@ -23,6 +23,8 @@ Description - TODO
 
 1. http://derekmolloy.ie/hello-world-introductions-to-cmake/
 
+2. https://mirkokiefer.com/cmake-by-example-f95eb47d45b1
+
 
 
  
